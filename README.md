@@ -13,6 +13,6 @@ Also see the earlier technical report: Maxim Teslenko and Elena Dubrova, "A Line
 
 **MostActiveTVD.h** - Code for finding a maximum weight TVD. (Can be easily adapted to find a minimum weight TVD. See the above-mention five author paper for algorithmic details.
 
-**TVDtester.cpp**, **test-set-1.txt**, **test-set-2.txt**, **test-set-3.txt**. Test code and test data.  TVDtester.cpp shows usage exampes for the above routines.
+**TVDtester.cpp**. Tester code.  TVDtester.cpp shows usage exampes for the above routines.  The three files of test data (test-set-1.txt, test-set-2.txt, test-set-3.txt) are too large for upload to github, but will be made available https://math.ucsd.edu/~sbuss/Research/TwoVertexDominators. The tester can be run on small examples without those three files.
 
 Bug reports to: Sam Buss, sbuss@ucsd.edu or sambuss@gmail.com.
